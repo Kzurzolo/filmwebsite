@@ -1,0 +1,142 @@
+@charset "UTF-8";
+#wrapper {
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	position: relative;
+	list-style-type: none;
+}
+header {
+	height: 250px;
+	width: 960px;	
+	
+}
+aside {
+	font-family: P22 Mackinac Pro Medium ;
+	font-size: 14px;
+	line-height: 20px;
+	color: #FFF;
+	float: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	position: relative;
+	height: 130px;
+	width: 90px;
+	background-image: url(images/109x217.jpg);
+	top:90px;
+}
+section {
+	font-family: P22 Mackinac Pro Medium, Arial, Helvetica, sans-serif;
+	padding-right: 10px;
+	padding-left:10px;
+	font-size: 14px;
+	line-height: 25px;
+	background-color:#BDA4FE;
+	width: 250px;
+	position: absolute;
+	top: 750px;
+	color: #0F0000;
+	left: 700px;
+	height: 250px;
+}
+footer {
+	
+	position: relative;
+	left: -90px;
+	background-color:#BDA4FE;
+	top:100px
+}
+nav {
+	font-family: P22 Mackinac Pro Medium, Arial, Helvetica, sans-serif;
+	height: 100px;
+	width: 960px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #DDCDFF;
+}
+a:link {
+	color: #DDCDFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #590CFF;
+}
+a:hover {
+	color: #B56EFF;;
+}
+a:active {
+	color: #90F;
+}
+li {
+	top:0px;
+	float: left;
+	width: 140px;
+	text-align: right;
+	
+}
+ul {
+	top: 0px;
+	width: 650px;	margin: auto;
+	list-style: none;
+	background-color: #666;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	height: 10px;
+}
+
+section2{
+	position: absolute;
+	left:60px;
+	top:750px;
+	
+	
+}
+
+section3{
+	
+	position: absolute;
+	top:300px;
+	
+	
+}
+
+section4{
+	font-size: 14px;
+	font-family: P22 Mackinac Pro Medium, Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 500px;
+	width: 200px;
+	left: 225px;
+	
+}
+
+section5{
+	font-size: 14px;
+	font-family: P22 Mackinac Pro Medium, Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 500px;
+	width: 200px;
+	left: 500px;
+}
+section6{
+	font-size: 14px;
+	font-family: P22 Mackinac Pro Medium, Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 500px;
+	width: 200px;
+	left: 775px;
+}
+footer{
+	position: absolute;
+	top:1030px;
+	width:960;
+	left:-300px;
+	
+	
+}
+
+
+
+
